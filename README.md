@@ -9,4 +9,4 @@ To help the research in this field, we collected a dataset of real Deepfake twee
 In order to create a solid baseline for detection techniques on the proposed dataset we tested 13 detection methods based on various state-of-the-art approaches. The detection results reported as a baseline using 13 detection methods, confirm that the newest and more sophisticated generative methods based on transformer architecture (e.g., GPT-2) can produce high-quality short texts, difficult to detect.
 
 
-*NOTE*: All the experiments have been performed using Google Colaboratory platform.
+*NOTE*: All the experiments have been performed using Google Colaboratory platform and Google Drive integration, if you want to run the scripts under different conditions you need to change the code accordingly.
