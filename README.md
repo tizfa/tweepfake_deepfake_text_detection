@@ -1,4 +1,4 @@
-This repository contain the scripts used to perform experimentation described in https://arxiv.org/abs/2008.00036 :
+This repository contains the scripts used to perform experimentation described in https://arxiv.org/abs/2008.00036 :
 
 **Title**: "TweepFake: about Detecting Deepfake Tweets"
 
